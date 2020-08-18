@@ -3,7 +3,7 @@
 - ⚡ I'm Computer Science Student at Pontifícia Universidade Católica do Rio Grande do Sul,
 - 🔭 I really like computers
 
-----------------------------------------------------------------------------------------------------------------
+
 ### Social Media
 
 <a target="_blank" href="https://www.linkedin.com/in/alexei-abianna-b65a0a115/">
@@ -19,7 +19,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
----------------------------------------------------------------------------------------------------------------------
+
 
 #### Tools and Languages
 
